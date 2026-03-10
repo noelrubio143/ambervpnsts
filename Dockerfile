@@ -9,6 +9,4 @@ COPY config.json /etc/v2ray/config.json
 # Run V2Ray with the config file
 CMD ["v2ray", "run", "-config", "/etc/v2ray/config.json"]
 
-
-# Join Now:- https://t.me/CrazyTechOp
-# Owner:~ @Innocent_LarkAaa
+# Owner:~ AMBERVPN
