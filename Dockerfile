@@ -9,4 +9,4 @@ COPY config.json /etc/v2ray/config.json
 # Run V2Ray with the config file
 CMD ["v2ray", "run", "-config", "/etc/v2ray/config.json"]
 
-# Owner:~ AMBERVPN
+# Owner:~ AMBERVPNs
